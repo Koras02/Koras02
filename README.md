@@ -23,8 +23,11 @@
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/%EC%A0%95%ED%98%B8-%EA%B9%80-6635b821a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=#0A66C2&link=https://www.linkedin.com/in/%EC%A0%95%ED%98%B8-%EA%B9%80-6635b821a/"/></a>&nbsp
-  <a href="https://www.instagram.com/hye_inisfree/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
- 
+  <a href="https://koras02.tistory.com/category"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/>
+ </a>&nbsp
+ <a href="https://koras02.tistory.com/category"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=000&link=https://koras02.tistory.com/category"/>
+</a>&nbsp
+
 </p>
 
 
