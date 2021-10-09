@@ -27,6 +27,8 @@
  </a>&nbsp
  <a href="https://koras02.tistory.com/category"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=000&link=https://koras02.tistory.com/category"/>
 </a>&nbsp
+<a href=""><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=fff&link=""/></a>&nbsp
+<a href=""><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=fff&link=""/></a>&nbsp
 
 </p>
 
