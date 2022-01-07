@@ -2,7 +2,7 @@
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
-<h3 align="center">📚 Tech Stack 📚</h3>
+<h3 align="center">📚 Tech Stack now 📚</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML-f06529?style=flat-square&logo=html5&logoColor="#E34F26"/>&nbsp 
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=#1572B6"/>&nbsp 
