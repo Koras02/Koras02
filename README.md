@@ -27,6 +27,8 @@
 <p align="center">
 <img src="https://img.shields.io/badge/GraphQL-f0cfff?style=flat-square&logo=GraphQL&logoColor=#E434AA"/>&nbsp    
 <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=000"/>&nbsp     
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=#000000"/>&nbsp                                                                                                                 
+                                                                                                     
 </p>
                                                                                
                                                                                                        
