@@ -10,7 +10,9 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=blue"/>&nbsp 
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=green"/>&nbsp 
 <img src="https://img.shields.io/badge/styled-components-pink?style=flat-square&logo=styled-components&logoColor=pink"/>&nbsp   
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=Angular&logoColor=#DD0031"/>&nbsp                                                                                                                 
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=Angular&logoColor=#DD0031"/>&nbsp
+                                                                                                              
+                                                                                                       
                                                                                                                       
 </p>
 <p align="center">
@@ -27,7 +29,8 @@
 <p align="center">
 <img src="https://img.shields.io/badge/GraphQL-f0cfff?style=flat-square&logo=GraphQL&logoColor=#E434AA"/>&nbsp    
 <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=000"/>&nbsp     
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=#000000"/>&nbsp                                                                                                                 
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=#000000"/>&nbsp  
+<img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=fff"/>&nbsp                                                                                                          
                                                                                                      
 </p>
                                                                                
