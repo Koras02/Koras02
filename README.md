@@ -38,7 +38,8 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=#000000"/>&nbsp  
 <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=fff"/>&nbsp                                                                          <img src="https://img.shields.io/badge/go-powderblue?style=flat-square&logo=go&logoColor=blue"/>&nbsp       
 <img src="https://img.shields.io/badge/Expo-000000?style=flat-square&logo=Expo&logoColor=#000020"/>&nbsp
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=fff"/>&nbsp                                                     
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=fff"/>&nbsp 
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=fff"/>&nbsp 
 </p>
                                                                                
                                                                                                        
