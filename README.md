@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=green"/>&nbsp 
 <img src="https://img.shields.io/badge/styled-components-pink?style=flat-square&logo=styled-components&logoColor=pink"/>&nbsp   
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=Angular&logoColor=#DD0031"/>&nbsp
-<img src="https://img.shields.io/badge/remix-000000?style=flat-square&logo=ReactNative&logoColor=#000000"/>&nbsp 
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=#E0234E"/>&nbsp 
                                                                                                               
                                                                                                        
                                                                                                                       
