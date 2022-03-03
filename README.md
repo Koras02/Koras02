@@ -44,8 +44,20 @@
                                                                                                    
 </p>
                                                                                
-                                                                                                       
-                                                                                                       
+<h3 align="center">🌈 Use Sever Studying 🌈</h3>                                                                                                  
+<p align="center">
+  <a href=""><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=#232F3E&link=https://www.instagram.com/hye_inisfree/"/>
+  </a>&nbsp
+  <a href=""><img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=flat-square&logo=Amazon AWS&logoColor=#232F3E&link=https://www.instagram.com/hye_inisfree/"/>
+  </a>&nbsp
+   <a href=""><img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=#232F3E&link=https://www.instagram.com/hye_inisfree/"/>
+  </a>&nbsp
+  <a href=""><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=#232F3E&link=https://www.instagram.com/hye_inisfree/"/>
+  </a>&nbsp
+   <a href=""><img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=#fff&link=https://www.instagram.com/hye_inisfree/"/>
+  </a>&nbsp
+</p>
+                  
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/%EC%A0%95%ED%98%B8-%EA%B9%80-6635b821a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=#0A66C2&link=https://www.linkedin.com/in/%EC%A0%95%ED%98%B8-%EA%B9%80-6635b821a/"/></a>&nbsp
@@ -55,8 +67,6 @@
 </a>&nbsp
 <a href=""><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=fff&link=""/></a>&nbsp
 <a href=""><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=fff&link=""/></a>&nbsp
-
-
 </p>
 
 
