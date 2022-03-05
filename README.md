@@ -46,7 +46,7 @@
                                                                                                        
 <p align="center">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Spring Boot&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=fff"/>
  </p>
                                                                                                       
                                                                                
