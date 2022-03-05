@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/HTML-f06529?style=flat-square&logo=html5&logoColor="#E34F26"/>&nbsp 
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=#1572B6"/>&nbsp 
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=red"/>&nbsp 
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff"/>&nbsp                                                                       
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=blue"/>&nbsp 
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=green"/>&nbsp 
 <img src="https://img.shields.io/badge/styled-components-pink?style=flat-square&logo=styled-components&logoColor=pink"/>&nbsp   
@@ -47,6 +48,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=fff"/>
  </p>
                                                                                                       
                                                                                
@@ -58,7 +60,7 @@
   </a>&nbsp
    <a href=""><img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=#232F3E&link=https://www.instagram.com/hye_inisfree/"/>
   </a>&nbsp
-  <a href=""><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=#232F3E&link=https://www.instagram.com/hye_inisfree/"/>
+  <a href=""><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/>
   </a>&nbsp
    <a href=""><img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=#fff&link=https://www.instagram.com/hye_inisfree/"/>
   </a>&nbsp
