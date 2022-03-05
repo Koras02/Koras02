@@ -7,7 +7,7 @@
 
 
 
-<h3 align="center">📚 Tech Stack now 📚</h3>
+<h3 align="center">📚 Tech Stack now && Studying 📚</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML-f06529?style=flat-square&logo=html5&logoColor="#E34F26"/>&nbsp 
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=#1572B6"/>&nbsp 
@@ -51,6 +51,7 @@
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=fff"/>
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=fff"/>
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=fff"/>
  </p>
                                                                                                       
                                                                                
