@@ -16,22 +16,22 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff"/>&nbsp    
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=blue"/>&nbsp 
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=green"/>&nbsp 
-<img src="https://img.shields.io/badge/styled-components-pink?style=flat-square&logo=styled-components&logoColor=pink"/>&nbsp   
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=Angular&logoColor=#DD0031"/>&nbsp
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=#E0234E"/>&nbsp 
-                                                                                                              
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=fff"/>&nbsp                                                                                                               
                                                                                                        
                                                                                                                       
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Sass-pink?style=flat-square&logo=styled-components&logoColor=#CC6699"/>&nbsp   
+<img src="https://img.shields.io/badge/styled-components-pink?style=flat-square&logo=styled-components&logoColor=pink"/>&nbsp   
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=fff"/>&nbsp 
 <img src="https://img.shields.io/badge/TypeScript-8fceff?style=flat-square&logo=TypeScript&logoColor=#8fceff"/>&nbsp
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=#764ABC"/>&nbsp 
 <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=fff"/>&nbsp 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=red"/>&nbsp 
 <img src="https://img.shields.io/badge/The Movie Database-e6ffef?style=flat-square&logo=TheMovieDatabase&logoColor=#c4ffda"/>&nbsp 
-                                                      
+                                                     
 </p>
 
 <p align="center">
@@ -53,6 +53,7 @@
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=fff"/>
+ <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=fff"/>                                                                                               
  </p>
                                                                                                       
                                                                                
