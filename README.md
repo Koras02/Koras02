@@ -69,6 +69,8 @@
   </a>&nbsp
    <a href=""><img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=#fff&link=https://www.instagram.com/hye_inisfree/"/>
   </a>&nbsp
+   <a href=""><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=#fff&link=https://www.instagram.com/hye_inisfree/"/>
+  </a>&nbsp
     <a href=""><img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=#fff&link=https://www.instagram.com/hye_inisfree/"/>
   </a>&nbsp
 </p>
