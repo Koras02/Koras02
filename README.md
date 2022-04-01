@@ -53,7 +53,7 @@
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=fff"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=fff"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=fff"/>                                                                                            
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=fff"/>                                                        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=fff"/>    
  </p>
                                                                                                       
                                                                                
@@ -69,7 +69,7 @@
   </a>&nbsp
    <a href=""><img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=#fff&link=https://www.instagram.com/hye_inisfree/"/>
   </a>&nbsp
-   <a href=""><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=#fff&link=https://www.instagram.com/hye_inisfree/"/>
+   <a href=""><img src="https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker&logoColor=#fff&link=https://www.instagram.com/hye_inisfree/"/>
   </a>&nbsp
     <a href=""><img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=#fff&link=https://www.instagram.com/hye_inisfree/"/>
   </a>&nbsp
