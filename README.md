@@ -62,7 +62,7 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=fff"/>            
 <img src="https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=Haskell&logoColor=fff"/>   
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff"/>   
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=fff"/>                                                                                                      
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=fff"/>                                                      <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=fff"/>                                              
  </p>
                                                                                                       
                                                                                
