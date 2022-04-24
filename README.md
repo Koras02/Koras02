@@ -62,8 +62,18 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=fff"/>            
 <img src="https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=Haskell&logoColor=fff"/>   
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff"/>   
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=fff"/>                                                      <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=fff"/>                                              
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=fff"/>             
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=fff"/>                                              
  </p>
+ 
+ <p align="center">
+<img src="https://img.shields.io/badge/C-4169E1?style=flat-square&logo=C&logoColor=fff"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=fff"/>            
+ <img src="https://img.shields.io/badge/Unity-00599C?style=flat-square&logo=Unity&logoColor=fff"/>  
+ <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=Unreal Engine&logoColor=fff"/>                                                
+                                                                                                
+ </p>
+           
                                                                                                       
                                                                                
 <h3 align="center">🌈 Use Sever Studying 🌈</h3>                                                                                                  
@@ -86,10 +96,9 @@
   </a>&nbsp
     <a href=""><img src="https://img.shields.io/badge/Supabase-000?style=flat-square&logo=Supabase&logoColor=#000&link=https://www.instagram.com/hye_inisfree/"/>
   </a>&nbsp
-
-
 </p>
-                  
+       
+       
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/%EC%A0%95%ED%98%B8-%EA%B9%80-6635b821a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=#0A66C2&link=https://www.linkedin.com/in/%EC%A0%95%ED%98%B8-%EA%B9%80-6635b821a/"/></a>&nbsp
