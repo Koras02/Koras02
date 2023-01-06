@@ -96,6 +96,8 @@
   </a>&nbsp
     <a href=""><img src="https://img.shields.io/badge/Supabase-000?style=flat-square&logo=Supabase&logoColor=#000&link=https://www.instagram.com/hye_inisfree/"/>
   </a>&nbsp
+    <a href=""><img src="https://img.shields.io/badge/Kubernetes-blue?style=flat-square&logo=Kubernetes&logoColor=red&link=https://www.instagram.com/hye_inisfree/"/>
+  </a>&nbsp
 </p>
        
        
