@@ -22,14 +22,14 @@
 </p>
       <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,svelte,flutter,spring,rust,apollo,rails" />
+    <img src="https://skillicons.dev/icons?i=nextjs,svelte,flutter,spring,rust,django,rails" />
     
   </a>
       
 </p>
         <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,nuxtjs,kotlin,laravel,jquery,git" />
+    <img src="https://skillicons.dev/icons?i=nuxtjs,kotlin,laravel,jquery,git" />
     
   </a>
       
@@ -45,7 +45,7 @@
    <h3 align="center">🌈 Use OS && FrameWork 🌈</h3>                                                                                                  
         <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,tailwind,styledcomponents,emotion,electron,ps,redux" />
+    <img src="https://skillicons.dev/icons?i=linux,tailwind,styledcomponents,emotion,electron,ps,redux,apollo" />
     
   </a>
   <br/><br/>
