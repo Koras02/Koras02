@@ -22,7 +22,7 @@
 </p>
       <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,svelte,flutter,spring,rust,django,rails" />
+    <img src="https://skillicons.dev/icons?i=nextjs,svelte,flutter,spring,rust,django,rails,deno" />
     
   </a>
       
