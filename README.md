@@ -58,7 +58,7 @@
  <h3 align="center">🌈 Use Editor 🌈</h3>                                                                                                  
         <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=atom,bash,figma,vscode,md,vim,visualstudio,unity,unreal,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=atom,bash,figma,vscode,md,vim,visualstudio,unity,unreal,androidstudio,pycharm" />
     
   </a>
       
