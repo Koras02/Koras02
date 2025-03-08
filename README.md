@@ -81,6 +81,7 @@
     <img alt="webpack" src="https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white">  
     <img alt="express" src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">  
     <img alt="jest" src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
+    <img alt="sass" src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
 </div>
 
