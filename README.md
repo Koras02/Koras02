@@ -19,6 +19,7 @@
 <hr>
 
 **Front-End**
+
 <div>
     <img alt="HTML" src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
     <img alt="CSS3" src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -40,6 +41,7 @@
 <br>
 
 **Back-End**
+
 <div>
     <img alt="python" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
@@ -58,12 +60,12 @@
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
     <img src="https://img.shields.io/badge/Koa-33333D?style=for-the-badge&logo=Koa&logoColor=white">
     <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-    
 
 </div>
 <br>
 
 **Game-Programming**
+
 <div>
     <img alt="c" src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">  
     <img alt="cplusplus" src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
@@ -71,6 +73,7 @@
 </div>
 
 **OS or Framework**
+
 <div>
     <img alt="linux" src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">  
     <img alt="tailwindcss" src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">  
@@ -83,9 +86,11 @@
     <img alt="jest" src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
     <img alt="sass" src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
+     <img src="https://img.shields.io/badge/socketdotio-010101?style=for-the-badge&logo=socketdotio&logoColor=white">
 </div>
 
 **Server**
+
 <div>
     <img alt="nginx" src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
     <img alt="docker" src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">  
@@ -96,12 +101,13 @@
     <img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  
     <img alt="postgresql" src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">  
     <img alt="scala" src="https://img.shields.io/badge/scala-DC322F?style=for-the-badge&logo=scala&logoColor=white">  
-    
+      <img alt="themoviedatabase" src="https://img.shields.io/badge/themoviedatabase-000000?style=for-the-badge&logo=themoviedatabase&logoColor=white"> 
   
   
 </div>
 
 **Mobile**
+
 <div>
     <img alt="kotlin" src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">  
     <img alt="dart" src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">  
@@ -109,5 +115,3 @@
     <img alt="androidstudio" src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">  
    
 </div>
-
-
